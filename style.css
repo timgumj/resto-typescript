@@ -1,0 +1,58 @@
+
+
+.active {
+  color: purple;
+  font-size: 22px;
+  
+}
+
+#hero{
+  background:rgba(0, 0, 0, 0.689); }
+  .containerhero{
+    margin-bottom: 20px;
+    padding-top: 230px;
+    padding-bottom: 230px;
+    background-image: url(https://images.unsplash.com/photo-1606836576983-8b458e75221d?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+    background-repeat: no-repeat;
+  background-position: 100%;
+  }
+
+ .plants{
+  background: rgba(222, 184, 135, 0.557);
+  margin-left: 44px;
+  font-size: 33px;
+ }
+
+ .contact{
+  background: rgba(222, 184, 135, 0.557);
+  margin-left: 44px;
+  font-size: 33px;
+ }
+
+
+.card{
+  background: rgb(10, 10, 10);
+  font-size: 18px;
+  color: white;
+  display: flex;
+  align-content: space-around;
+}
+
+.add-to-cart{
+  background: black;
+  border:solid white;
+}
+ 
+header{
+  background: rgb(228, 223, 223);
+  color: white;
+  font-size: 22px;
+}
+
+#open{
+  font-size: 30px;
+}
+
+#copy{
+  font-size: 30px;
+}
